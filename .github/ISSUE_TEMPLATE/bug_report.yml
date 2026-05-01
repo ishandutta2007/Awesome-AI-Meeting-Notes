@@ -1,0 +1,20 @@
+name: Report a Problem
+description: Report a broken link or outdated information
+title: "[BUG]: <Short Description>"
+labels: ["bug"]
+assignees: []
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Description of the Problem
+      placeholder: Describe which link is broken or what information is outdated.
+    validations:
+      required: true
+  - type: input
+    id: tool-name
+    attributes:
+      label: Affected Tool
+      placeholder: e.g. Otter.ai
+    validations:
+      required: false

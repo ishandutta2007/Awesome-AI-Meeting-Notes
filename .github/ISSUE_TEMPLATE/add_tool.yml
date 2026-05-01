@@ -1,0 +1,50 @@
+name: Add a New Tool
+description: Suggest a new AI meeting tool for the list
+title: "[ADD]: <Tool Name>"
+labels: ["enhancement", "new-tool"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a new tool! Please provide the details below.
+  - type: input
+    id: tool-name
+    attributes:
+      label: Tool Name
+      placeholder: e.g. AwesomeAI
+    validations:
+      required: true
+  - type: input
+    id: tool-link
+    attributes:
+      label: Tool URL
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - SaaS Product
+        - Open-Source Project
+        - Framework/API
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      placeholder: 1-2 sentences about the tool's core features.
+    validations:
+      required: true
+  - type: checkboxes
+    id: features
+    attributes:
+      label: Key Features
+      options:
+        - label: Transcription
+        - label: Summarization
+        - label: Diarization
+        - label: Local/Privacy-focused
