@@ -25,8 +25,6 @@ This repository is a comprehensive guide to the **AI Meeting Notes Ecosystem**. 
 ## 📍 Table of Contents
 
 - [☁️ SaaS Products](#-saas-products)
-  - [Core Platforms](#core-platforms)
-  - [Specialized Solutions](#specialized-solutions)
 - [📂 Open-Source GitHub Projects](#-open-source-github-projects)
   - [Self-Hosted Assistants](#self-hosted-assistants)
   - [Local Transcription Tools](#local-transcription-tools)
@@ -38,21 +36,22 @@ This repository is a comprehensive guide to the **AI Meeting Notes Ecosystem**. 
 
 ## ☁️ SaaS Products
 
-### Core Platforms
-*The industry leaders in AI transcription and meeting intelligence.*
+The leading platforms in AI transcription and meeting intelligence, ranging from general note-takers to specialized sales agents.
 
-- **[Clarity](https://clarity.ai/)** 💎 — Minimal noise, high-quality structured notes and insights.
-- **[Granola](https://www.granola.so/)** ✍️ — AI notepad that enhances your manual notes; runs locally.
-- **[Fathom](https://fathom.video/)** 🎥 — Free-tier favorite for Zoom, Meet, and Teams.
-- **[Jamie](https://www.meetjamie.ai/)** 🛡️ — Bot-free, privacy-focused recording directly on your device.
-- **[Fireflies.ai](https://fireflies.ai/)** 🔍 — Deep CRM integrations and sentiment analysis.
-- **[Otter.ai](https://otter.ai/)** 🦦 — Real-time transcription and collaboration veteran.
+| Platform | Free Tier / Trial | Starting Price | Best For |
+| :--- | :--- | :--- | :--- |
+| **[Fathom](https://fathom.video/)** 🎥 | **5 AI summaries/mo** (Unlimited rec) | $16/mo | Individuals & heavy Zoom/Meet users |
+| **[Granola](https://www.granola.so/)** ✍️ | **25 lifetime meetings** | $14/mo | Bot-free manual note enhancement |
+| **[Fireflies.ai](https://fireflies.ai/)** 🔍 | **800 mins storage** (20 AI credits) | $10/mo | CRM sync & deep conversation search |
+| **[Otter.ai](https://otter.ai/)** 🦦 | **300 mins/mo** (30-min cap) | $8.33/mo | Real-time transcription & collaboration |
+| **[tl;dv](https://tldv.io/)** 🕒 | **10 AI summaries lifetime** | $18/mo | Sales teams & highlight clips |
+| **[Jamie](https://www.meetjamie.ai/)** 🛡️ | **10 meetings/mo** (30-min cap) | €24/mo | Privacy-first bot-free local recording |
+| **[MeetGeek](https://www.meetgeek.ai/)** 📊 | **5 hours/mo recording** | $9.99/mo | Automation workflows & team analytics |
+| **[Notta.ai](https://www.notta.ai/)** 🌐 | **120 mins/mo** (5-min clips) | $8.17/mo | Multilingual support (58+ languages) |
+| **[Avoma](https://www.avoma.com/)** 🚀 | **Basic recording** (No CRM sync) | $19/mo | Revenue & Conversation Intelligence |
+| **[Clarity](https://clarity.ai/)** 💎 | **7-day Free Trial** | $20/mo | Founder-led sales & product insights |
 
-### Specialized Solutions
-- **[tl;dv](https://tldv.io/)** — Smart clips and sales-focused meeting intelligence.
-- **[MeetGeek](https://www.meetgeek.ai/)** — Template-driven insights and team knowledge sharing.
-- **[Notta](https://www.notta.ai/)** — Multilingual support with high accuracy.
-- **[Avoma](https://www.avoma.com/)** — Comprehensive meeting lifecycle management.
+*Prices are generally for annual billing. Free tier limits are subject to change by providers.*
 
 ---
 
