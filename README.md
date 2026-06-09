@@ -7,6 +7,11 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Meeting-Notes.svg?style=social&label=Star)](https://github.com/ishandutta2007/Awesome-AI-Meeting-Notes/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Meeting-Notes.svg?style=social&label=Fork)](https://github.com/ishandutta2007/Awesome-AI-Meeting-Notes/network/members)
+<br />
+<br />
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
 
 ---
 
