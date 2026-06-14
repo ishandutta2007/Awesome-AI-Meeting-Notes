@@ -70,6 +70,7 @@ The leading platforms in AI transcription and meeting intelligence.
 - **[Meetily](https://github.com/Zackriya-Solutions/meetily)** 🏠 — **Top Choice**. Local Whisper + Ollama. 🍎 🪟 🐧
 - **[Char (anarlog)](https://github.com/fastrepl/anarlog)** 📝 — Open-source Granola alternative. 🍎 🪟
 - **[Pensieve](https://github.com/lukasbach/pensieve)** 🧠 — Local-only desktop app. 🍎 🪟
+- **[Screenpipe](https://github.com/screenpipe/screenpipe)** 🎥 — 24/7 local screen + mic capture with automatic meeting detection; Whisper transcripts indexed for AI search and agents (Ollama). 🍎 🪟 🐧
 
 ### 💻 Local Transcription Tools
 - **[Ownscribe](https://github.com/paberr/ownscribe)** ⌨️ — CLI-based using WhisperX. 💻
