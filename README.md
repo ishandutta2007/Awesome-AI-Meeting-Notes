@@ -47,6 +47,7 @@ The leading platforms in AI transcription and meeting intelligence.
 
 | Platform | Free Tier / Trial | Starting Price | Best For |
 | :--- | :--- | :--- | :--- |
+| **[Cue](https://heycue.io/tools/meeting-notes)** 🎙️ | **Free to start** | $19.99/mo | Bot-free desktop notes on Mac & Windows |
 | **[Fathom](https://fathom.video/)** 🎥 | **5 AI summaries/mo** | $16/mo | Heavy Zoom/Meet users |
 | **[Granola](https://www.granola.so/)** ✍️ | **25 lifetime meetings** | $14/mo | Bot-free notes |
 | **[Fireflies.ai](https://fireflies.ai/)** 🔍 | **800 mins storage** | $10/mo | CRM & Sales Teams |
