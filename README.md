@@ -17,7 +17,7 @@
 
 ## 🚀 Overview
 
-This repository is the ultimate guide to the **AI Meeting Notes Ecosystem**. We track the leading **SaaS platforms** and **Open-Source projects** that are revolutionizing how teams capture and utilize meeting data.
+This repository is the ultimate guide to the **AI Meeting Notes Ecosystem**. We track the leading **SaaS platforms**, **source-available tools**, and **Open-Source projects** that are revolutionizing how teams capture and utilize meeting data.
 
 ### ❓ Why use AI for Meeting Notes? (SEO)
 Using **AI meeting assistants** and **automated transcription** tools helps teams:
@@ -32,6 +32,7 @@ Using **AI meeting assistants** and **automated transcription** tools helps team
 ## 📍 Table of Contents
 
 - [☁️ SaaS Products](#-saas-products)
+- [Source-Available Tools](#source-available-tools)
 - [📂 Open-Source GitHub Projects](#-open-source-github-projects)
   - [🏠 Self-Hosted Assistants](#self-hosted-assistants)
   - [💻 Local Transcription Tools](#local-transcription-tools)
@@ -62,6 +63,12 @@ The leading platforms in AI transcription and meeting intelligence.
 
 ---
 
+## Source-Available Tools
+
+- **[Screenpipe](https://github.com/screenpipe/screenpipe)** 🎥 - Searchable locally captured screen text and audio history for meeting notes, recall, and work summaries, with [MCP access](https://github.com/screenpipe/screenpipe/blob/main/packages/screenpipe-mcp/README.md); source-available under the [Screenpipe Commercial License](https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md), not an OSI open-source license. Configured cloud AI, transcription, sync, integrations, and connected AI clients can transmit context off-device.
+
+---
+
 ## 📂 Open-Source GitHub Projects
 
 ### 🏠 Self-Hosted Assistants
@@ -70,7 +77,6 @@ The leading platforms in AI transcription and meeting intelligence.
 - **[Meetily](https://github.com/Zackriya-Solutions/meetily)** 🏠 — **Top Choice**. Local Whisper + Ollama. 🍎 🪟 🐧
 - **[Char (anarlog)](https://github.com/fastrepl/anarlog)** 📝 — Open-source Granola alternative. 🍎 🪟
 - **[Pensieve](https://github.com/lukasbach/pensieve)** 🧠 — Local-only desktop app. 🍎 🪟
-- **[Screenpipe](https://github.com/screenpipe/screenpipe)** 🎥 — 24/7 local screen + mic capture with automatic meeting detection; Whisper transcripts indexed for AI search and agents (Ollama). 🍎 🪟 🐧
 
 ### 💻 Local Transcription Tools
 - **[Ownscribe](https://github.com/paberr/ownscribe)** ⌨️ — CLI-based using WhisperX. 💻
