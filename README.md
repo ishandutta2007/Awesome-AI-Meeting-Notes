@@ -57,6 +57,7 @@ The leading platforms in AI transcription and meeting intelligence.
 | **[Notta.ai](https://www.notta.ai/)** 🌐 | **120 mins/mo** | $8.17/mo | Multilingual pros |
 | **[Avoma](https://www.avoma.com/)** 🚀 | **Basic recording** | $19/mo | Revenue Intelligence |
 | **[Clarity](https://clarity.ai/)** 💎 | **7-day Free Trial** | $20/mo | Founder-led sales |
+| **[Hint](https://www.sayhint.com)** 💬 | **8 free answers** | $15/mo | Non-native English speakers |
 
 *Prices based on annual billing. [Back to top](#-awesome-ai-meeting-notes)*
 
