@@ -73,6 +73,7 @@ The leading platforms in AI transcription and meeting intelligence.
 - **[Screenpipe](https://github.com/screenpipe/screenpipe)** 🎥 — 24/7 local screen + mic capture with automatic meeting detection; Whisper transcripts indexed for AI search and agents (Ollama). 🍎 🪟 🐧
 
 ### 💻 Local Transcription Tools
+- **[Open Granola](https://github.com/anshuman-pandey/open-granola)** — Desktop meeting-notes development preview with local Whisper, transcript imports, and a Node-only JSON/Markdown/subtitle conversion CLI.
 - **[Ownscribe](https://github.com/paberr/ownscribe)** ⌨️ — CLI-based using WhisperX. 💻
 - **[Meetscribe](https://github.com/pretyflaco/meetscribe)** 📄 — Local diarization & PDF output. 🪟 🐧
 - **[Meeting-Transcriber](https://github.com/pasrom/meeting-transcriber)** 🧭 — macOS menu bar app. 🍎
