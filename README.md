@@ -71,6 +71,7 @@ The leading platforms in AI transcription and meeting intelligence.
 - **[Char (anarlog)](https://github.com/fastrepl/anarlog)** 📝 — Open-source Granola alternative. 🍎 🪟
 - **[Pensieve](https://github.com/lukasbach/pensieve)** 🧠 — Local-only desktop app. 🍎 🪟
 - **[Screenpipe](https://github.com/screenpipe/screenpipe)** 🎥 — 24/7 local screen + mic capture with automatic meeting detection; Whisper transcripts indexed for AI search and agents (Ollama). 🍎 🪟 🐧
+- **[Murmury](https://github.com/GianlucaBave/murmury)** 🧝 — Live call assistant: local Whisper (MLX) transcription, short answers from your own documents with your own AI key, floating window excluded from screen sharing. 🍎
 
 ### 💻 Local Transcription Tools
 - **[Ownscribe](https://github.com/paberr/ownscribe)** ⌨️ — CLI-based using WhisperX. 💻
