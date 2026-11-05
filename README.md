@@ -42,6 +42,7 @@ Leveraging **AI meeting assistants**, **speech-to-text (STT)** engines, and **au
   - [🏠 Self-Hosted Assistants](#-self-hosted-assistants)
   - [💻 Local Transcription & Dictation Tools](#-local-transcription--dictation-tools)
 - [🛠️ Frameworks & APIs](#️-frameworks--apis)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚖️ Disclaimer](#️-disclaimer)
 - [📈 Star History](#-star-history)
@@ -122,6 +123,24 @@ Build your own autonomous AI meeting agent using these foundations:
 - **[Model Context Protocol (MCP)](https://modelcontextprotocol.io/)** 🔌 — Connect live meeting transcripts directly into agentic IDEs and LLM copilots.
 
 *[Back to top](#-awesome-ai-meeting-notes)*
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for exploring and utilizing **Awesome AI Meeting Notes**! Keeping this ecosystem map up to date with fast-moving AI breakthroughs, emerging OSS projects, and changing SaaS pricing tiers requires continuous effort and research.
+
+If you find this repository valuable:
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork and contribute** new tools, benchmarks, and updates.
+- 📢 **Share it** with your team, fellow developers, or on social channels.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing maintenance and new features, consider sponsoring via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="left">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4&style=for-the-badge" alt="Sponsor on GitHub" />
+  </a>
+</p>
 
 ---
 
