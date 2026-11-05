@@ -9,7 +9,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Meeting-Notes.svg?style=social&label=Star)](https://github.com/ishandutta2007/Awesome-AI-Meeting-Notes/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Meeting-Notes.svg?style=social&label=Star)](https://github.com/ishandutta2007/Awesome-AI-Meeting-Notes/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Meeting-Notes.svg?style=social&label=Fork)](https://github.com/ishandutta2007/Awesome-AI-Meeting-Notes/network/members)
 <br />
 <br />
@@ -79,34 +79,34 @@ The leading commercial platforms in AI transcription, executive meeting minutes,
 
 ## 📂 Open-Source GitHub Projects
 
-Curated open-source meeting recorders, speech-to-text CLIs, and local AI note takers. Sorted by GitHub star count (descending).
+Curated open-source meeting recorders, speech-to-text CLIs, and local AI note takers. Sorted by GitHub Stars_Count (descending).
 
 ### 🏠 Self-Hosted Assistants
 
 Full control over your audio transcripts and meeting intelligence with 100% data sovereignty.
 
-1. **[Meetily](https://github.com/Zackriya-Solutions/meetily)** [![GitHub stars](https://img.shields.io/github/stars/Zackriya-Solutions/meetily?style=social&color=white)](https://github.com/Zackriya-Solutions/meetily/stargazers) — 🍎 🪟 🐧 Top Choice. Local Whisper + Ollama AI meeting assistant. Zero cloud latency, native audio capture, no meeting bot required.
-2. **[Screenpipe](https://github.com/screenpipe/screenpipe)** [![GitHub stars](https://img.shields.io/github/stars/screenpipe/screenpipe?style=social&color=white)](https://github.com/screenpipe/screenpipe/stargazers) — 🍎 🪟 🐧 24/7 continuous local screen and mic capture with automatic meeting detection; Whisper transcripts indexed for local AI agents and semantic search (Ollama).
-3. **[Char (anarlog)](https://github.com/fastrepl/anarlog)** [![GitHub stars](https://img.shields.io/github/stars/fastrepl/anarlog?style=social&color=white)](https://github.com/fastrepl/anarlog/stargazers) — 🍎 🪟 Open-source Granola alternative for macOS and Windows. Bot-free meeting recording with structured markdown export.
-4. **[Natively](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant)** [![GitHub stars](https://img.shields.io/github/stars/Natively-AI-assistant/natively-cluely-ai-assistant?style=social&color=white)](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant/stargazers) — 🍎 🪟 Free open-source meeting assistant, interview copilot, and note taker. Real-time transcription, local RAG, stealth mode, and BYOK.
-5. **[Vexa](https://github.com/Vexa-ai/vexa)** [![GitHub stars](https://img.shields.io/github/stars/Vexa-ai/vexa?style=social&color=white)](https://github.com/Vexa-ai/vexa/stargazers) — 🐳 Open-source meeting transcription API for Google Meet, Microsoft Teams & Zoom. Auto-join bots, real-time WebSocket transcripts, and MCP server for AI agents.
-6. **[Call.md](https://github.com/video-db/call.md)** [![GitHub stars](https://img.shields.io/github/stars/video-db/call.md?style=social&color=white)](https://github.com/video-db/call.md/stargazers) — 💻 Turn calls and meetings into live agent loops. Records, transcribes, and structures real-time AI intelligence into Markdown.
-7. **[Minutes](https://github.com/silverstein/minutes)** [![GitHub stars](https://img.shields.io/github/stars/silverstein/minutes?style=social&color=white)](https://github.com/silverstein/minutes/stargazers) — 🍎 Local-first meeting and voice memo transcription tool designed so AI coding clients (Claude Code, Cursor) can query transcripts.
-8. **[Pensieve](https://github.com/lukasbach/pensieve)** [![GitHub stars](https://img.shields.io/github/stars/lukasbach/pensieve?style=social&color=white)](https://github.com/lukasbach/pensieve/stargazers) — 🍎 🪟 Local-only desktop app for effortless meeting transcription, automatic audio indexing, and offline summaries.
+1. **[Meetily](https://github.com/Zackriya-Solutions/meetily)** [![GitHub_Stars](https://img.shields.io/github/stars/Zackriya-Solutions/meetily?style=social&color=white)](https://github.com/Zackriya-Solutions/meetily/stargazers) — 🍎 🪟 🐧 Top Choice. Local Whisper + Ollama AI meeting assistant. Zero cloud latency, native audio capture, no meeting bot required.
+2. **[Screenpipe](https://github.com/screenpipe/screenpipe)** [![GitHub_Stars](https://img.shields.io/github/stars/screenpipe/screenpipe?style=social&color=white)](https://github.com/screenpipe/screenpipe/stargazers) — 🍎 🪟 🐧 24/7 continuous local screen and mic capture with automatic meeting detection; Whisper transcripts indexed for local AI agents and semantic search (Ollama).
+3. **[Char (anarlog)](https://github.com/fastrepl/anarlog)** [![GitHub_Stars](https://img.shields.io/github/stars/fastrepl/anarlog?style=social&color=white)](https://github.com/fastrepl/anarlog/stargazers) — 🍎 🪟 Open-source Granola alternative for macOS and Windows. Bot-free meeting recording with structured markdown export.
+4. **[Natively](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant)** [![GitHub_Stars](https://img.shields.io/github/stars/Natively-AI-assistant/natively-cluely-ai-assistant?style=social&color=white)](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant/stargazers) — 🍎 🪟 Free open-source meeting assistant, interview copilot, and note taker. Real-time transcription, local RAG, stealth mode, and BYOK.
+5. **[Vexa](https://github.com/Vexa-ai/vexa)** [![GitHub_Stars](https://img.shields.io/github/stars/Vexa-ai/vexa?style=social&color=white)](https://github.com/Vexa-ai/vexa/stargazers) — 🐳 Open-source meeting transcription API for Google Meet, Microsoft Teams & Zoom. Auto-join bots, real-time WebSocket transcripts, and MCP server for AI agents.
+6. **[Call.md](https://github.com/video-db/call.md)** [![GitHub_Stars](https://img.shields.io/github/stars/video-db/call.md?style=social&color=white)](https://github.com/video-db/call.md/stargazers) — 💻 Turn calls and meetings into live agent loops. Records, transcribes, and structures real-time AI intelligence into Markdown.
+7. **[Minutes](https://github.com/silverstein/minutes)** [![GitHub_Stars](https://img.shields.io/github/stars/silverstein/minutes?style=social&color=white)](https://github.com/silverstein/minutes/stargazers) — 🍎 Local-first meeting and voice memo transcription tool designed so AI coding clients (Claude Code, Cursor) can query transcripts.
+8. **[Pensieve](https://github.com/lukasbach/pensieve)** [![GitHub_Stars](https://img.shields.io/github/stars/lukasbach/pensieve?style=social&color=white)](https://github.com/lukasbach/pensieve/stargazers) — 🍎 🪟 Local-only desktop app for effortless meeting transcription, automatic audio indexing, and offline summaries.
 
 ### 💻 Local Transcription & Dictation Tools
 
 Command-line utilities, lightweight menu bar apps, and self-hosted transcription pipelines.
 
-1. **[Ghost Pepper](https://github.com/matthartman/ghost-pepper)** [![GitHub stars](https://img.shields.io/github/stars/matthartman/ghost-pepper?style=social&color=white)](https://github.com/matthartman/ghost-pepper/stargazers) — 🍎 100% private, on-device voice models for speech-to-text, fast voice dictation, and meeting transcription on macOS.
-2. **[Amical](https://github.com/amicalhq/amical)** [![GitHub stars](https://img.shields.io/github/stars/amicalhq/amical?style=social&color=white)](https://github.com/amicalhq/amical/stargazers) — 🍎 🪟 Open-source, local-first AI dictation and voice note application powered by Whisper. Offline-capable rapid speech-to-text.
-3. **[Muesli](https://github.com/Muesli-HQ/muesli)** [![GitHub stars](https://img.shields.io/github/stars/Muesli-HQ/muesli?style=social&color=white)](https://github.com/Muesli-HQ/muesli/stargazers) — 🍎 Agent-native local meeting transcription and dictation for macOS. An open-source Granola and WisprFlow alternative.
-4. **[Biscotti](https://github.com/scosman/Biscotti)** [![GitHub stars](https://img.shields.io/github/stars/scosman/Biscotti?style=social&color=white)](https://github.com/scosman/Biscotti/stargazers) — 🍎 Free, privacy-first native meeting transcription app for macOS powered by Apple Silicon accelerated Whisper.
-5. **[Meetscribe / Millet](https://github.com/pretyflaco/meetscribe)** [![GitHub stars](https://img.shields.io/github/stars/pretyflaco/meetscribe?style=social&color=white)](https://github.com/pretyflaco/meetscribe/stargazers) — 🪟 🐧 Fully local meeting transcription with Pyannote speaker diarization, AI summarization, and polished PDF meeting minutes output.
-6. **[Meeting-Transcriber](https://github.com/pasrom/meeting-transcriber)** [![GitHub stars](https://img.shields.io/github/stars/pasrom/meeting-transcriber?style=social&color=white)](https://github.com/pasrom/meeting-transcriber/stargazers) — 🍎 Minimalist macOS menu bar app for background meeting audio recording and Whisper speech transcription.
-7. **[AI-Powered-Meeting-Summarizer](https://github.com/AlexisBalayre/AI-Powered-Meeting-Summarizer)** [![GitHub stars](https://img.shields.io/github/stars/AlexisBalayre/AI-Powered-Meeting-Summarizer?style=social&color=white)](https://github.com/AlexisBalayre/AI-Powered-Meeting-Summarizer/stargazers) — 🐳 Gradio web interface connecting Whisper transcription with open-source LLM summarization.
-8. **[Ownscribe](https://github.com/paberr/ownscribe)** [![GitHub stars](https://img.shields.io/github/stars/paberr/ownscribe?style=social&color=white)](https://github.com/paberr/ownscribe/stargazers) — 💻 CLI-based meeting transcription and diarization pipeline utilizing WhisperX.
-9. **[Summeet](https://github.com/lyzgeorge/summeet)** [![GitHub stars](https://img.shields.io/github/stars/lyzgeorge/summeet?style=social&color=white)](https://github.com/lyzgeorge/summeet/stargazers) — 🐧 Full-stack FastAPI + Vue self-hosted meeting assistant for transcribing and summarizing multi-party meetings.
+1. **[Ghost Pepper](https://github.com/matthartman/ghost-pepper)** [![GitHub_Stars](https://img.shields.io/github/stars/matthartman/ghost-pepper?style=social&color=white)](https://github.com/matthartman/ghost-pepper/stargazers) — 🍎 100% private, on-device voice models for speech-to-text, fast voice dictation, and meeting transcription on macOS.
+2. **[Amical](https://github.com/amicalhq/amical)** [![GitHub_Stars](https://img.shields.io/github/stars/amicalhq/amical?style=social&color=white)](https://github.com/amicalhq/amical/stargazers) — 🍎 🪟 Open-source, local-first AI dictation and voice note application powered by Whisper. Offline-capable rapid speech-to-text.
+3. **[Muesli](https://github.com/Muesli-HQ/muesli)** [![GitHub_Stars](https://img.shields.io/github/stars/Muesli-HQ/muesli?style=social&color=white)](https://github.com/Muesli-HQ/muesli/stargazers) — 🍎 Agent-native local meeting transcription and dictation for macOS. An open-source Granola and WisprFlow alternative.
+4. **[Biscotti](https://github.com/scosman/Biscotti)** [![GitHub_Stars](https://img.shields.io/github/stars/scosman/Biscotti?style=social&color=white)](https://github.com/scosman/Biscotti/stargazers) — 🍎 Free, privacy-first native meeting transcription app for macOS powered by Apple Silicon accelerated Whisper.
+5. **[Meetscribe / Millet](https://github.com/pretyflaco/meetscribe)** [![GitHub_Stars](https://img.shields.io/github/stars/pretyflaco/meetscribe?style=social&color=white)](https://github.com/pretyflaco/meetscribe/stargazers) — 🪟 🐧 Fully local meeting transcription with Pyannote speaker diarization, AI summarization, and polished PDF meeting minutes output.
+6. **[Meeting-Transcriber](https://github.com/pasrom/meeting-transcriber)** [![GitHub_Stars](https://img.shields.io/github/stars/pasrom/meeting-transcriber?style=social&color=white)](https://github.com/pasrom/meeting-transcriber/stargazers) — 🍎 Minimalist macOS menu bar app for background meeting audio recording and Whisper speech transcription.
+7. **[AI-Powered-Meeting-Summarizer](https://github.com/AlexisBalayre/AI-Powered-Meeting-Summarizer)** [![GitHub_Stars](https://img.shields.io/github/stars/AlexisBalayre/AI-Powered-Meeting-Summarizer?style=social&color=white)](https://github.com/AlexisBalayre/AI-Powered-Meeting-Summarizer/stargazers) — 🐳 Gradio web interface connecting Whisper transcription with open-source LLM summarization.
+8. **[Ownscribe](https://github.com/paberr/ownscribe)** [![GitHub_Stars](https://img.shields.io/github/stars/paberr/ownscribe?style=social&color=white)](https://github.com/paberr/ownscribe/stargazers) — 💻 CLI-based meeting transcription and diarization pipeline utilizing WhisperX.
+9. **[Summeet](https://github.com/lyzgeorge/summeet)** [![GitHub_Stars](https://img.shields.io/github/stars/lyzgeorge/summeet?style=social&color=white)](https://github.com/lyzgeorge/summeet/stargazers) — 🐧 Full-stack FastAPI + Vue self-hosted meeting assistant for transcribing and summarizing multi-party meetings.
 
 *Legend: 🍎 macOS \| 🪟 Windows \| 🐧 Linux \| 💻 CLI \| 🐳 Docker. [Back to top](#-awesome-ai-meeting-notes)*
 
@@ -174,4 +174,13 @@ We welcome community contributions! Please read our [Contributing Guidelines](CO
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-AI-Meeting-Notes&type=date&theme=dark&legend=bottom-right" />
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-AI-Meeting-Notes&type=date&legend=bottom-right" />
  </picture>
+</a>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-AI-Meeting-Notes&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-AI-Meeting-Notes_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-AI-Meeting-Notes_growth.svg">
+  </picture>
 </a>
