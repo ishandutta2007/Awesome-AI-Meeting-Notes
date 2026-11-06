@@ -93,6 +93,7 @@ Full control over your audio transcripts and meeting intelligence with 100% data
 6. **[Call.md](https://github.com/video-db/call.md)** [![GitHub_Stars](https://img.shields.io/github/stars/video-db/call.md?style=social&color=white)](https://github.com/video-db/call.md/stargazers) — 💻 Turn calls and meetings into live agent loops. Records, transcribes, and structures real-time AI intelligence into Markdown.
 7. **[Minutes](https://github.com/silverstein/minutes)** [![GitHub_Stars](https://img.shields.io/github/stars/silverstein/minutes?style=social&color=white)](https://github.com/silverstein/minutes/stargazers) — 🍎 Local-first meeting and voice memo transcription tool designed so AI coding clients (Claude Code, Cursor) can query transcripts.
 8. **[Pensieve](https://github.com/lukasbach/pensieve)** [![GitHub_Stars](https://img.shields.io/github/stars/lukasbach/pensieve?style=social&color=white)](https://github.com/lukasbach/pensieve/stargazers) — 🍎 🪟 Local-only desktop app for effortless meeting transcription, automatic audio indexing, and offline summaries.
+9. **[Murmury](https://github.com/GianlucaBave/murmury)** 🧝 — Live call assistant: local Whisper (MLX) transcription, short answers from your own documents with your own AI key, floating window excluded from screen sharing. 🍎
 
 ### 💻 Local Transcription & Dictation Tools
 
