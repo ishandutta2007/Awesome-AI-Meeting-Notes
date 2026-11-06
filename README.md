@@ -59,6 +59,7 @@ The global AI meeting assistants and conversational intelligence market is value
 
 The leading commercial platforms in AI transcription, executive meeting minutes, and revenue intelligence, sorted by company scale (valuation / annual revenue).
 
+
 | Platform | Company Scale (Valuation / Revenue) | Free Tier / Trial Limit | Starting Tier Price | Best For |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Granola](https://www.granola.so/)** ✍️ | **$1.5B Valuation** ($125M Series C) | **25 lifetime meetings** (all core features included, no credit card required) | $14/month (billed annually at $168/yr) or $18/mo monthly | Bot-free notes for founders & VCs on macOS/Windows |
@@ -72,6 +73,8 @@ The leading commercial platforms in AI transcription, executive meeting minutes,
 | **[Jamie](https://www.meetjamie.ai/)** 🛡️ | **$1.3M–$2.4M Est. ARR** (Bootstrapped / Angel) | **10 meeting credits/month** (first 10 meetings free forever, no bot required) | €24/seat/month (billed annually at €288/yr) or €29/mo monthly | Bot-free privacy, in-room microphone audio capture & executive summaries |
 | **[Clarity](https://adoptclarity.com/)** 💎 | **Early-Stage Seed** (Bootstrapped / Indie) | **7-day full access free trial** (unlimited macOS native recordings & follow-up drafts) | $20/seat/month (billed monthly or annually) | Founder-led sales calls, instant customer feedback categorization |
 | **[QuillHub](https://quillhub.ai/en/desktop?utm_source=awesome-ai-meeting-notes&utm_medium=directory&utm_campaign=listing)** 🪶 | **Micro-SaaS** (Axevia Labs LLC) | **60 minutes on sign-up + 14-day desktop trial** (full access to system audio recording) | $6.66/month (billed semi-annually at $39.99/6-mo) or $9.99/mo monthly | Local bot-free system audio recording on Mac & Windows, MCP agent API |
+| **[echo99](https://www.echo99.app/)** 🎙️ | **Free, no account** | Free | Bot-free, on-device |
+
 
 *Prices based on starting paid tiers with annual commitment where available. [Back to top](#-awesome-ai-meeting-notes)*
 
