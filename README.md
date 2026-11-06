@@ -86,6 +86,7 @@ Curated open-source meeting recorders, speech-to-text CLIs, and local AI note ta
 
 ### 🏠 Self-Hosted Assistants
 
+
 Full control over your audio transcripts and meeting intelligence with 100% data sovereignty.
 
 1. **[Meetily](https://github.com/Zackriya-Solutions/meetily)** [![GitHub_Stars](https://img.shields.io/github/stars/Zackriya-Solutions/meetily?style=social&color=white)](https://github.com/Zackriya-Solutions/meetily/stargazers) — 🍎 🪟 🐧 Top Choice. Local Whisper + Ollama AI meeting assistant. Zero cloud latency, native audio capture, no meeting bot required.
@@ -97,6 +98,7 @@ Full control over your audio transcripts and meeting intelligence with 100% data
 7. **[Minutes](https://github.com/silverstein/minutes)** [![GitHub_Stars](https://img.shields.io/github/stars/silverstein/minutes?style=social&color=white)](https://github.com/silverstein/minutes/stargazers) — 🍎 Local-first meeting and voice memo transcription tool designed so AI coding clients (Claude Code, Cursor) can query transcripts.
 8. **[Pensieve](https://github.com/lukasbach/pensieve)** [![GitHub_Stars](https://img.shields.io/github/stars/lukasbach/pensieve?style=social&color=white)](https://github.com/lukasbach/pensieve/stargazers) — 🍎 🪟 Local-only desktop app for effortless meeting transcription, automatic audio indexing, and offline summaries.
 9. **[Murmury](https://github.com/GianlucaBave/murmury)** 🧝 — Live call assistant: local Whisper (MLX) transcription, short answers from your own documents with your own AI key, floating window excluded from screen sharing. 🍎
+10. **[akou](https://github.com/GeiserX/akou)** 📞 — Bot-free call recorder with on-device transcription, speaker labels and timestamped notes; Claude Code or Codex can question a call over MCP. 🍎
 
 ### 💻 Local Transcription & Dictation Tools
 
