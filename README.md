@@ -73,6 +73,7 @@ The leading commercial platforms in AI transcription, executive meeting minutes,
 | **[Jamie](https://www.meetjamie.ai/)** 🛡️ | **$1.3M–$2.4M Est. ARR** (Bootstrapped / Angel) | **10 meeting credits/month** (first 10 meetings free forever, no bot required) | €24/seat/month (billed annually at €288/yr) or €29/mo monthly | Bot-free privacy, in-room microphone audio capture & executive summaries |
 | **[Clarity](https://adoptclarity.com/)** 💎 | **Early-Stage Seed** (Bootstrapped / Indie) | **7-day full access free trial** (unlimited macOS native recordings & follow-up drafts) | $20/seat/month (billed monthly or annually) | Founder-led sales calls, instant customer feedback categorization |
 | **[QuillHub](https://quillhub.ai/en/desktop?utm_source=awesome-ai-meeting-notes&utm_medium=directory&utm_campaign=listing)** 🪶 | **Micro-SaaS** (Axevia Labs LLC) | **60 minutes on sign-up + 14-day desktop trial** (full access to system audio recording) | $6.66/month (billed semi-annually at $39.99/6-mo) or $9.99/mo monthly | Local bot-free system audio recording on Mac & Windows, MCP agent API |
+| **[Transcribe Video: To The Text](https://video2text.ttt.so)** 📱 | **Micro-SaaS** (indie iOS) | **≈5 min total + 5 MB file cap** forever (no credit card to try) | $2.99/wk, $9.99/mo, or $59.99/yr (Pro IAP) | iOS voice memos, YouTube/Vimeo imports, file share-sheet transcription with speaker split & Summarize |
 | **[echo99](https://www.echo99.app/)** 🎙️ | **Free, no account** | Free | Bot-free, on-device |
 
 
