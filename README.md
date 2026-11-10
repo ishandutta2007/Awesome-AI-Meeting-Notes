@@ -127,7 +127,7 @@ Build your own autonomous AI meeting agent using these foundations:
 - **[Pyannote-audio](https://github.com/pyannote/pyannote-audio)** 🗣️ — Neural speaker diarization toolkit for tracking who spoke when.
 - **[LangGraph](https://github.com/langchain-ai/langgraph)** 🕸️ — Multi-agent framework for building complex meeting ingestion and action item delegation loops.
 - **[Model Context Protocol (MCP)](https://modelcontextprotocol.io/)** 🔌 — Connect live meeting transcripts directly into agentic IDEs and LLM copilots.
-- **[OneMira C1 & MCP Server](https://github.com/onemira-space/onemira-mcp)** 🎙️ — Subscription-free standalone AI voice recorder ([onemira.com/products/c1](https://onemira.com/products/c1)) with local AI transcription, speaker ID, editable Markdown (`.md`) notes, and an open-source MCP server for Claude Code and Cursor.
+- **[OneMira MCP Server](https://github.com/onemira-space/onemira-mcp)** 🎙️ — Open-source Model Context Protocol server for querying local AI meeting transcripts, speaker diarization, and editable Markdown (`.md`) Wiki notes inside Claude Code and Cursor.
 
 *[Back to top](#-awesome-ai-meeting-notes)*
 
