@@ -99,6 +99,7 @@ Full control over your audio transcripts and meeting intelligence with 100% data
 8. **[Pensieve](https://github.com/lukasbach/pensieve)** [![GitHub_Stars](https://img.shields.io/github/stars/lukasbach/pensieve?style=social&color=white)](https://github.com/lukasbach/pensieve/stargazers) — 🍎 🪟 Local-only desktop app for effortless meeting transcription, automatic audio indexing, and offline summaries.
 9. **[Murmury](https://github.com/GianlucaBave/murmury)** 🧝 — Live call assistant: local Whisper (MLX) transcription, short answers from your own documents with your own AI key, floating window excluded from screen sharing. 🍎
 10. **[akou](https://github.com/GeiserX/akou)** 📞 — Bot-free call recorder with on-device transcription, speaker labels and timestamped notes; Claude Code or Codex can question a call over MCP. 🍎
+11. **[Escriba](https://github.com/AlvaroGarrido10/escriba)** ✍️ — Chrome extension that records Google Meet, Teams and Zoom in the browser (tab audio plus microphone) and transcribes with your own Gemini key; minutes and Q&A with Gemini, GPT or Claude. No server or account: audio goes from the browser to the provider you choose. 🍎 🪟 🐧
 
 ### 💻 Local Transcription & Dictation Tools
 
