@@ -74,6 +74,7 @@ The leading commercial platforms in AI transcription, executive meeting minutes,
 | **[Clarity](https://adoptclarity.com/)** 💎 | **Early-Stage Seed** (Bootstrapped / Indie) | **7-day full access free trial** (unlimited macOS native recordings & follow-up drafts) | $20/seat/month (billed monthly or annually) | Founder-led sales calls, instant customer feedback categorization |
 | **[QuillHub](https://quillhub.ai/en/desktop?utm_source=awesome-ai-meeting-notes&utm_medium=directory&utm_campaign=listing)** 🪶 | **Micro-SaaS** (Axevia Labs LLC) | **60 minutes on sign-up + 14-day desktop trial** (full access to system audio recording) | $6.66/month (billed semi-annually at $39.99/6-mo) or $9.99/mo monthly | Local bot-free system audio recording on Mac & Windows, MCP agent API |
 | **[echo99](https://www.echo99.app/)** 🎙️ | **Free, no account** | Free | Bot-free, on-device |
+| **[Recordist](https://recordist.app/download?from=aimn)** 🌸 | **Free to start** | **Recording and transcription free with no time limit**, plus 7 days of Pro with no card | [See pricing](https://recordist.app/pricing?from=aimn) | Bot-free notes on your own devices (Mac, Windows, Linux), each linked to the exact words |
 
 
 *Prices based on starting paid tiers with annual commitment where available. [Back to top](#-awesome-ai-meeting-notes)*
