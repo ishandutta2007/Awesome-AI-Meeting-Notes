@@ -113,6 +113,7 @@ Command-line utilities, lightweight menu bar apps, and self-hosted transcription
 7. **[AI-Powered-Meeting-Summarizer](https://github.com/AlexisBalayre/AI-Powered-Meeting-Summarizer)** [![GitHub_Stars](https://img.shields.io/github/stars/AlexisBalayre/AI-Powered-Meeting-Summarizer?style=social&color=white)](https://github.com/AlexisBalayre/AI-Powered-Meeting-Summarizer/stargazers) — 🐳 Gradio web interface connecting Whisper transcription with open-source LLM summarization.
 8. **[Ownscribe](https://github.com/paberr/ownscribe)** [![GitHub_Stars](https://img.shields.io/github/stars/paberr/ownscribe?style=social&color=white)](https://github.com/paberr/ownscribe/stargazers) — 💻 CLI-based meeting transcription and diarization pipeline utilizing WhisperX.
 9. **[Summeet](https://github.com/lyzgeorge/summeet)** [![GitHub_Stars](https://img.shields.io/github/stars/lyzgeorge/summeet?style=social&color=white)](https://github.com/lyzgeorge/summeet/stargazers) — 🐧 Full-stack FastAPI + Vue self-hosted meeting assistant for transcribing and summarizing multi-party meetings.
+10 **[Roofle](https://github.com/roofle-ai/roofle)** [![GitHub_Stars](https://img.shields.io/github/stars/roofle-ai/roofle?style=social&color=white)](https://github.com/lyzgeorge/summeet/stargazers) — 🐧 The Meeting Copilot That Tells You What to Ask, Live. Using Local LLM for transcription.
 
 *Legend: 🍎 macOS \| 🪟 Windows \| 🐧 Linux \| 💻 CLI \| 🐳 Docker. [Back to top](#-awesome-ai-meeting-notes)*
 
