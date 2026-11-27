@@ -99,6 +99,7 @@ Full control over your audio transcripts and meeting intelligence with 100% data
 8. **[Pensieve](https://github.com/lukasbach/pensieve)** [![GitHub_Stars](https://img.shields.io/github/stars/lukasbach/pensieve?style=social&color=white)](https://github.com/lukasbach/pensieve/stargazers) — 🍎 🪟 Local-only desktop app for effortless meeting transcription, automatic audio indexing, and offline summaries.
 9. **[Murmury](https://github.com/GianlucaBave/murmury)** 🧝 — Live call assistant: local Whisper (MLX) transcription, short answers from your own documents with your own AI key, floating window excluded from screen sharing. 🍎
 10. **[akou](https://github.com/GeiserX/akou)** 📞 — Bot-free call recorder with on-device transcription, speaker labels and timestamped notes; Claude Code or Codex can question a call over MCP. 🍎
+11. **[NODO AI](https://github.com/PierfrancescoLijoi/nodo-ai)** 🗂️ — Local-first memory for meetings and documents: faster-whisper transcripts with speaker labels, Qwen3 on llama.cpp, answers that quote the exact sentences they used, a knowledge graph of decisions and actions, and a read-only MCP server. MIT. 🪟
 
 ### 💻 Local Transcription & Dictation Tools
 
